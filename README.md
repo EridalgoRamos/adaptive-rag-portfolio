@@ -9,6 +9,9 @@ Residência TIC em Trilhas — PUC-Rio · Instituto ECOA
 
 Consultas em linguagem natural que combinam cálculos sobre arquivos completos, recuperação documental e respostas com referências às fontes utilizadas.
 
+Vídeo de demonstração 
+https://www.canva.com/design/DAHZT2Eg2g0/xYY8U9n6HukE49XOOXBDZA/edit
+
 [Materiais da entrega no Drive](https://drive.google.com/drive/folders/110gk1Q77490T6PJ_pYYsYL3L8iZ9xvsM?usp=sharing)
 
 ## Equipe
